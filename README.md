@@ -1,16 +1,15 @@
-# dashboard
+# Dashboard UI Flutter Application
 
-A new Flutter project.
+A simple and elegant dashboard UI built with Flutter. This application provides a user-friendly interface for managing various entities like customers, suppliers, products, and more.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Responsive grid layout for displaying dashboard cards.
+- Clean and modern design using Flutter's Material Design.
+- Easy to customize and extend for additional features.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Youtube Link: https://youtu.be/9D0DyyM9GCE
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![image](https://github.com/user-attachments/assets/e571d3f2-6614-419b-ab02-76eb49741955)
